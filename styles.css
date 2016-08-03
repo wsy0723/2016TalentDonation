@@ -1,6 +1,10 @@
 body{
 	background-color: #FCF2E1;
 }
+#userImage{
+  width:90px;
+}
+////////////////////////////////////
 body,html {
   height: 100%;
   margin: 0;
