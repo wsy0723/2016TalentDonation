@@ -21,6 +21,6 @@ $(window).load(function(){
 function clearAll(){
   var x = document.getElementsByClassName('inputs');
   for (i = 0; i < x.length; i++) { 
-    x[i].value="abc";
+    x[i].value="";
   }
 }
